@@ -7,3 +7,7 @@ Kelley School of Business — BSB, **Operations Management**
 Luddy School of Informatics, Computing, and Engineering — BS, **Data Science**
 <br>
 Minors: *Statistics · Decision Science*
+
+<br>
+<br>
+Exploring at the intersection of these fields. 
