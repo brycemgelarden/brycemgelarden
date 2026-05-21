@@ -10,4 +10,4 @@ Minors: *Statistics · Decision Science*
 
 <br>
 <br>
-Exploring at the intersection of these fields. 
+Researching, building, and exploring @ the intersection of these fields. 
