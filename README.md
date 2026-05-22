@@ -1,5 +1,7 @@
 # Bryce Gelarden
 
+## Indiana University
+
 | | |
 |---|---|
 | **Kelley School of Business** | BSB, Operations Management |
