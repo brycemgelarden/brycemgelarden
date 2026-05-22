@@ -1,7 +1,7 @@
 # Bryce Gelarden
 <br>
-## Indiana University
 
+## Indiana University
 
 | | |
 |---|---|
