@@ -2,6 +2,7 @@
 
 ## Indiana University
 
+<br>
 | | |
 |---|---|
 | **Kelley School of Business** | BSB, Operations Management |
