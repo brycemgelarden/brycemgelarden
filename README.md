@@ -9,16 +9,18 @@
 ## Indiana University 
 | | |
 |---|---|
-| **Kelley School of Business** | BSB, *Operations Management* |
-| **Luddy School of Informatics, Computing, and Engineering** | BS, *Data Science* |
+| Kelley School of Business | *Bachelor of Science in Business* (BS), **Operations Management** |
+| Luddy School of Informatics, Computing, and Engineering | *Bachelor of Science* (BS), **Data Science** |
 | Minors | *Statistics · Decision Science* |
  
 ---
+<div align="center">
  
 ### Operations Strategy & Analytics Intern @ United Airlines &nbsp;·&nbsp; Summer 2026
  
 ---
- 
+ <div align="center">
+   
 ### Connect
  
 | | |
