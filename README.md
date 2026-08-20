@@ -14,12 +14,6 @@
 | Minors | *Statistics · Decision Science* |
  
 ---
-<div align="center">
- 
-### Operations Strategy & Analytics Intern @ United Airlines &nbsp;·&nbsp; Summer 2026
- 
----
- <div align="center">
    
 ### Connect
  
@@ -31,5 +25,3 @@
 | 🎓 | bgelard@iu.edu |
 
 ---
-
-Currently taking a break from personal GitHub activity.  My summer is focused on learning through data science-adjacent work at *United Airlines*, along with other fitness and travel goals.  Catch me back here in the fall!
