@@ -14,7 +14,9 @@
 | Minors | *Statistics · Decision Science* |
  
 ---
-   
+
+<div align="center">
+
 ### Connect
  
 | | |
@@ -24,4 +26,4 @@
 | 📬 | bryce.m.gelarden@gmail.com |
 | 🎓 | bgelard@iu.edu |
 
----
+</div>
