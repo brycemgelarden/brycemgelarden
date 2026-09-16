@@ -9,8 +9,8 @@
 ## Indiana University 
 | | |
 |---|---|
-| Kelley School of Business | *Bachelor of Science in Business* (BS), **Operations Management** |
-| Luddy School of Informatics, Computing, and Engineering | *Bachelor of Science* (BS), **Data Science** |
+| Kelley School of Business | *Bachelor of Science in Business* (BScB), **Operations Management** |
+| Luddy School of Informatics, Computing, and Engineering | *Bachelor of Science* (BSc), **Data Science** |
 | Minors | *Statistics · Decision Science* |
  
 ---
