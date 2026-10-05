@@ -11,7 +11,7 @@
 |---|---|
 | Kelley School of Business | *Bachelor of Science in Business* (BScB), **Operations Management** |
 | Luddy School of Informatics, Computing, and Engineering | *Bachelor of Science* (BSc), **Data Science** |
-| College of Arts + Sciences | **Statistics** |
+| College of Arts + Sciences | *Bachelor of Arts* (BA), **Mathematics (Statistics)** |
  
 ---
 
